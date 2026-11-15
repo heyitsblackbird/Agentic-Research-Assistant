@@ -1,2 +1,20 @@
 # Claude
 Claude.md
+docs/WALKTHROUGH.md
+
+# Secrets
+.env
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Local databases
+*.db
+
+# OS / editor
+.DS_Store
+.vscode/
